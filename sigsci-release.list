@@ -1,0 +1,3 @@
+# Adding package repo for SigSci agent
+
+deb https://apt.signalsciences.net/release/ubuntu/ xenial main
